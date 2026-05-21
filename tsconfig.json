@@ -13,7 +13,7 @@
     "target": "ES6",
     "types": [""],
     // For nodejs:
-    // "lib": ["esnext"],
+    "lib": ["DOM", "es2021"],
     // "types": ["node"],
     // and npm install -D @types/node
 
